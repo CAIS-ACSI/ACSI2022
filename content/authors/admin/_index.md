@@ -40,11 +40,11 @@ ACSI/CAIS invite des propositions présentant des recherches empiriques, théori
 <br><br>
 L’évaluation des propositions portera sur la théorie ou la méthodologie, la clarté, l’impact ou l’originalité, et la qualité générale. Les propositions seront reçues et évaluées via l’Open Journal System de l’ACSI/CAIS : [https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions). Si vous éprouvez des difficultés à soumettre votre contribution dans le système d’ici la date limite, veuillez la soumettre à [caislistserv@gmail.com](mailto:caislistserv@gmail.com) en indiquant “ACSI 2022” comme objet du courriel.
 <br><br>
-**Student Research Forum**: We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum’s goal is to provide graduate students with an opportunity to present and discuss their research project, get feedback from senior researchers, and make connections with other students. Students at any stage of their graduate program are invited to submit to the Forum.
+**Forum de la recherche étudiante**: Nous avons le plaisir d’inviter les étudiants à la maîtrise et au doctorat à participer au forum de recherche étudiante de l’ACSI. L’objectif du forum est de donner aux étudiants l’occasion de présenter et de discuter de leur projet de recherche, de recevoir de la rétroaction de la part de chercheurs expérimentés, et d’établir des liens avec d’autres étudiants. Les étudiants à tout stade de leur programme sont invités à participer au Forum.
 <br><br>
-Please be prepared to present informally on an aspect of your research for 5-10 minutes, which will be followed by discussion. More details will be provided upon acceptance.
+Soyez prêt à faire une présentation informelle de 5 à 10 minutes portant sur un aspect de votre recherche qui sera suivie d’une discussion. Plus de détails vous seront communiqués suite à l’acceptation de votre soumission.
 <br><br>
-To participate in the Forum, please fill out the following [submission form](https://docs.google.com/forms/d/e/1FAIpQLScbW8_kNo-9bWQ4VnIV5jT5y601eTuyw0hK1h0Y_s-7Qa5aIQ/viewform?usp=sf_link).
+Pour participer au Forum, veuillez remplir le [formulaire de soumission](https://docs.google.com/forms/d/e/1FAIpQLScbW8_kNo-9bWQ4VnIV5jT5y601eTuyw0hK1h0Y_s-7Qa5aIQ/viewform?usp=sf_link).
 <br><br>
 **La date limite pour toutes les soumissions est le 21 janvier 2022 à minuit, heure du Pacifique.**
 <br><br>
