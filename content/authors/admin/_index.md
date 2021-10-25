@@ -48,7 +48,7 @@ Pour participer au Forum, veuillez remplir le [formulaire de soumission](https:/
 <br><br>
 **La date limite pour toutes les soumissions est le 21 janvier 2022 à minuit, heure du Pacifique.**
 <br><br>
-Les auteurs seront informés au plus tard le **15 mars 2020**. Les versions finales doivent être soumises au plus tard le **15 mai 2020**, et seront ensuite publiées sur le site Web et les actes du congrès. Les auteurs sont également encouragés à soumettre leurs articles complétés à la à la revue en accès libre (voie diamant, sans frais de publication) de l’ACSI : [Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie](https://ojs.lib.uwo.ca/index.php/cjils).
+Les auteurs seront informés au plus tard le **15 mars 2022**. Les versions finales doivent être soumises au plus tard le **15 mai 2020**, et seront ensuite publiées sur le site Web et les actes du congrès. Les auteurs sont également encouragés à soumettre leurs articles complétés à la à la revue en accès libre (voie diamant, sans frais de publication) de l’ACSI : [Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie](https://ojs.lib.uwo.ca/index.php/cjils).
 <br><br>
 Pour plus d'informations, veuillez contacter les organisateurs du congrès ACSI/CAIS 2022 :
 <br><br>
