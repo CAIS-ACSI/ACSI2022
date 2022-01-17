@@ -46,7 +46,7 @@ Soyez prêt à faire une présentation informelle de 5 à 10 minutes portant sur
 <br><br>
 Pour participer au Forum, veuillez remplir le [formulaire de soumission](https://docs.google.com/forms/d/e/1FAIpQLScbW8_kNo-9bWQ4VnIV5jT5y601eTuyw0hK1h0Y_s-7Qa5aIQ/viewform?usp=sf_link).
 <br><br>
-**La date limite pour toutes les soumissions est le ~~21 janvier 2022~~ 4 Février 2022 à minuit, heure du Pacifique.**
+**La date limite pour toutes les soumissions est le ~~21 janvier~~ 4 Février 2022 à minuit, heure du Pacifique.**
 <br><br>
 Les auteurs seront informés au plus tard le **15 mars 2022**. Les versions finales doivent être soumises au plus tard le **15 mai 2022**, et seront ensuite publiées sur le site Web et les actes du congrès. Les auteurs sont également encouragés à soumettre leurs articles complétés à la à la revue en accès libre (voie diamant, sans frais de publication) de l’ACSI : [Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie](https://ojs.lib.uwo.ca/index.php/cjils).
 <br><br>
