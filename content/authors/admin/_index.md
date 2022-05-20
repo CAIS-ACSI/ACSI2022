@@ -13,42 +13,289 @@ L’Association canadienne des sciences de l’information / The Canadian Associ
 Le premier congrès de l’ACSI/CAIS a eu lieu en 1973. Cette année, 171 participants se rencontrèrent au Château Montebello pour l’événement inaugural (Nilsen, 2010, p.135). Dans cette pittoresque campagne québécoise, ils discutèrent d’enjeux qui demeurent importants aujourd’hui: vie privée, systèmes, gestion de l’information, métadonnées, politique, curriculum (Nilsen, 2010. p. 140). En 2022, l’ACSI/CAIS organise son 50e congrès, un événement virtuel ouvert à tous les participants autour du globe. Au fil des années, les enjeux discutés à l’ACSI/CAIS se sont élargis et diversifiés, mais l’esprit de communauté pour lequel notre congrès est bien connu est demeuré inébranlable.
 <br><br>
 Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est “100 ans de sciences de l’information.” Nous encourageons la communauté à porter un regard sur les cinquante dernières années, et sur les cinquante prochaines. Nous vous invitons à creuser l’histoire de notre discipline pour en faire ressortir de nouvelles connaissances ainsi qu’à en envisager les possibles avenirs.
-<br><br>
-Les propositions peuvent traiter des sujets suivants, sans nécessairement s’y limiter :
 
-- Perspectives émergentes qui mettent en lumière les enjeux de demains
-- Revue et analyse systématique révélant des directions nouvelles ou souhaitables
-- Revitalisation d’idées qui étaient originalement en avance sur leur temps
-- Revue critique de l’histoire de notre discipline
-- Formulations de défis, d’opportunités, et de visions pour l’avenir de la discipline
-- Identification de futurs positifs et/ou négatifs pour notre discipline
-- Examen du caractère interdisciplinaire ou transdisciplinaire de notre discipline et de l’évolution de ses frontières
-- Exploration de l’impact historique ou potentiel de notre discipline
+<center>Lien Zoom pour l'ensemble des séances: <a href="https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09">https://zoom.us/j/88016818664</a></center>
+<center>Toutes les heures sont indiquées en <strong>heure avancée de l’Est (EDT)</strong>.</center>
+<center>Veuillez utiliser votre nom lorsque vous rejoingez la recontre sur Zoom. Si vous éprouvez des difficultés, veuillez <a href="#contact">nous contacter.</a></center>
+<center>Veuillez également noter que toutes les présentations au programme sont en anglais. Une version PDF du programme est disponible.<a href="acsi2022_program_and_schedule.pdf">ici</a>.</center>
+<table style="width:100%">
+  <tr>
+      <td colspan=3 style="font-size:20px"><strong>Jour 1 - Mardi 7 Juin</strong> </td>
+  </tr>
+  <tr>
+    <th style="width:20%">Séance</th>
+    <th style="width:20%">Heure (EDT)</th>
+    <th style="width:60%">Présentation</th>
+  </tr>
+  <tr>
+    <td>MOT DE BIENVENUE ET ANNONCES</td>
+    <td>1:00pm - 1:15pm</td>
+    <td>
+      <STRONG>MOT DE BIENVENUE ET ANNONCES</STRONG></br>
+        <i>Sarah Polkinghorne</i>
+    </td>
+  </tr>
+  <tr>
+    <td>SÉANCE PLÉNIÈRE D’OUVERTURE</br>
+      Modération: Grant Campbell</td>
+    <td>1:15pm - 2:45m</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/1.Future/">Retour vers le futur : leçons d’hier et priorités de demain dans la recherche en bibliothéconomie et sciences de l’information</a></strong><br>
+        <i>Julia Bullard, Lynne Howarth & Ali Shiri</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>2:45pm - 3:00pm</td>
+  </tr>
+  <tr>
+    <td>PANEL CONJOINT INAUGURAL CAIS-CAPAL</br>
+        Modération: à déterminer</td>
+    <td>3:00pm - 4:00pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/2.Capal/">Loin dans l’avenir : perspectives sur la recherche et la pratique</a></strong><br>
+        <i>Mary Greenshields, Michelle Brown, à déterminer, à déterminer</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Réseautage informel
+    <td>4:00pm - 4:30pm</td>
+    <td><STRONG>restez dans la salle Zoom !</td>
+    </td>
+  </tr>
+  <tr>
+      <td colspan=3 style="font-size:20px"><strong><font>Jour 2 - Mercredi 8 Juin</font></strong></td>
+  </tr>
+  <tr>
+    <th>Séance</th>
+    <th>Heure (EDT)</th>
+    <th>Présentation</th>
+  </tr>
+  <tr>
+  <td rowspan=3>Présentation des prix des meilleurs articles</br>Modération: Rebekah (Becky) Willson</td>
+    <td>11:00am - 11:30am</td>
+    <td>Meilleur article (égalité):</br>
+      <strong><a href="https://www.acsi2022.ca/talk/3.Samek/">Tracer une catégorisation à facettes de l’IA et de l’éthique</a></strong><br>
+        <i>Toni Samek & Ali Shiri</i>
+    </td>
+  </tr>
+  <tr>
+    <td>11:30am - 12:00pm</td>
+    <td>Meilleur article (égalité):</br>
+      <strong><a href="https://www.acsi2022.ca/talk/4.Rothbauer/">Honorer l’amour des livres et de la lecture en bibliothéconomie et sciences de l’information</a></strong><br>
+        <i>Paulette Rothbauer & Marni Harrington</i>
+    </td>
+  </tr>
+  <tr>
+    <td>12:00pm - 12:30pm</td>
+    <td>Prix étudiant de l’ACS:</br>
+    <strong><a href="https://www.acsi2022.ca/talk/5.Shuva/">« Ils agissent comme si nous allions au paradis » : production d’informations, désinformation et établissement d’immigrants bangladais au Canada</a></strong><br>
+        <i>Nafiz Shuva</i>
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td rowspan=3>Recherche et découverte</br>Modération: à déterminer</td>
+    <td>12:30pm - 1:00pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/6.Shiri/">Évaluation de la réutilisation du contenu numérique : un cadre émergent pour la recherche et le développement futur des bibliothèques numériques</a></strong><br>
+        <i>Ali Shiri, Caroline Muglia, Santi Thompson, Joyce Chapman, Elizabeth Joan Kelly, Ayla Stein Kenfield & Liz Woolcot</i>
+    </td>
+  </tr>  
+  <tr>
+    <td>1:00pm - 1:30pm</td>
+   <td> <strong><a href="https://www.acsi2022.ca/talk/7.Tucker/">Sentiers non explorés des moteurs de recherche : revisiter les premières idées et explorer les défis futurs pour enrichir le programme d’étude des méthodes de recherche d’information</a></strong><br>
+        <i>Virginia Tucker</i>
+    </td>
+  </tr>
+  <tr>
+    <td>1:30pm - 2:00pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/8.Haigh/">Vérification des faits à l’ère de la post-vérité</a></strong><br>
+        <i>Maria Haigh</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>2:00pm - 2:15pm</td>
+  </tr>
+  <tr>
+    <td>PANEL</td>
+    <td>2:15pm - 3:45pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/9.Ethnography/">Kaléidoscope ethnographique en bibliothéconomie et sciences de l’information</a></strong><br>
+        <i>Jenna Hartel, Bharat Mehra, Brian Griffin, Jenaya Webb, Rebecca Noone, Hugh Samson & Danielle Cooper</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>3:45pm - 4:15pm</td>
+  </tr>
+  <tr>
+  <td rowspan=3>Communications savantes</br>Modération:à déterminer</td>
+    <td>4:15pm - 4:45pm</td>
+      <td><strong><a href="https://www.acsi2022.ca/talk/10.Ayeni/">Facteurs influençant les pratiques de publication en libre accès des chercheurs canadiens en SSH : implications pour l’avenir de la communication savante</a></strong><br>
+        <i>Philips Ayeni & Rebekah Willson</i>
+    </td>
+  </tr>
+  <tr>
+    <td>4:45pm - 5:15pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/11.Dillon/">Externaliser nos jugements : le problème avec l’utilisation d’indicateurs de performance pour l’évaluation des professeurs</a></strong><br>
+        <i>Andrew Dillon</i>
+    </td>
+  </tr>
+  <tr>
+    <td>5:15pm - 5:45pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/12.Butler/">Le passage vers l’édition en libre accès de l’oligopole scientifique : comment les éditeurs à but lucratif bénéficient-ils des frais de traitement des articles dorés et hybrides</a></strong><br>
+        <i>Leigh-Ann Butler, Lisa Matthias, Marc-André Simard, Philippe Mongeon & Stefanie Haustein</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>5:45pm - 6:00pm</td>
+  </tr>
+  <tr>
+  <td>PANEL</td>
+   <td>6:00pm - 7:30pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/13.Social/">, Bibliothéconomie et sciences de l’information, et travail social : des passés croisés, un avenir partagé</a></strong><br>
+        <i>Keren Dali, Noah Lenstra, Charles Senteio, Angelica Esposito & Kaitlin Wynia Baluk</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3 style="font-size:20px"><strong><font>Jour 3 - Jeudi 9 Juin</font></strong></td>
+  </tr>
+  <tr>
+    <th>Séance</th>
+    <th>Heure (EDT)</th>
+    <th>Présentation</th>
+  </tr>
+  <tr>
+    <td rowspan=7>PRÉSENTATIONS ÉCLAIR</br>
+    Modération: à déterminer</td>
+    <td rowspan=7>11:00am - 12:00pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/14.Dold/">L’encyclopédie conceptuelle, revisitée ? Organisation du savoir pour la théorie politique du 21e siècle</a></strong><br>
+        <i>Kayla Dold</i>
+    </td>
+  </tr>
+  <tr>
+      <td><strong><a href="https://www.acsi2022.ca/talk/15.Currier/">Vers l’équité de l’information entre les bibliothèques universitaires : partager les livres électroniques à la façon des documents d’imprimés</a></strong><br>
+        <i>Chad Currier</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.acsi2022.ca/talk/16.Li/">Retracer l’évolution des iSchools à travers le langage</a></strong><br>
+        <i>Savannah Li, Kaushar Mahetaji, Amanda Yang</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.acsi2022.ca/talk/17.Allen/">Le mythe de la référence à moitié-exacte</a></strong><br>
+        <i>Janet Allen</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.acsi2022.ca/talk/18.Dudak/">Réinventer la surcharge informationnelle</a></strong><br>
+        <i>Leah Dudak</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.acsi2022.ca/talk/19.Nutt/">Évaluation des ressources antiracistes en ligne : élaboration d’un cadre pour examiner la sensibilisation et l’engagement antiracistes des institutions en ligne</a></strong><br>
+        <i>Rachael Nutt & LaVerne Gray</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.acsi2022.ca/talk/20.Mayhew/">Obtenir toute l’histoire : la couverture des revues historiques dans Web of Science et Scopus</a></strong><br>
+        <i>Kydra Mayhew, Maria Henkel, Geoff Krause, Lara Morrison, Courtney Svab & Philippe Mongeon</i>
+    </td>
+  </tr>  
+  <tr>
+  <td rowspan=4>Bibliothèques et archives</br>Modération: à déterminer</td>
+     <td>12:00pm - 12:30pm</td>
+       <td><strong><a href="https://www.acsi2022.ca/talk/21.Silva/">Les pratiques d’évaluation archivistique dans deux Archives nationales d’Amérique du Nord et du Sud : le Canada et le Brésil</a></strong><br>
+        <i>Maria Juliana Nunes da Silva & Ivana Denise Parrela</i>
+    </td>
+  </tr>
+  <tr>
+    <td>12:30am - 1:00pm</td>
+       <td><strong><a href="https://www.acsi2022.ca/talk/22.Dalmer/">« Tant que vous ne m’appelez pas Madame » : les points de vue des usagers plus âgés sur les étiquettes d’âge utilisées dans les programmes en bibliothèque</a></strong><br>
+        <i>Nicole Dalmer, Lucia Cedeira Serantes, & Bria Mitrovica</i>
+    </td>
+  </tr>
+  <tr>
+    <td>1:00pm - 1:30pm</td>
+     <td><strong><a href="https://www.acsi2022.ca/talk/23.Modrow/">Edwards rêve d’Alexandrie : l’histoire des bibliothèques au service de l’activisme des bibliothèques publiques</a></strong><br>
+        <i>Sebastian Modrow & Melissa Smith</i>
+    </td>
+  </tr>
+    <tr>
+    <td>1:30pm - 2:00pm</td>
+     <td><strong><a href="https://www.acsi2022.ca/talk/24.Chabot/">Le discours des opposants et des partisans de l’heure du conte drag queen : une étude de cas de la bibliothèque régionale d’Okanagan</a></strong><br>
+        <i>Roger Chabot & Davin Helkenberg</i>
+    </td>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>2:00am- 2:15pm</td>
+  </tr>
+  <tr>
+    <td>Panel</td>
+    <td>2:15pm - 3:45pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/25.Marginalization/">100 ans de marginalisation : documenter le passé, développer l’avenir</a></strong><br>
+        <i>Brian M. Watson, Julia Bullard, Rio Picollo, Tamara Lee, Gerry Goh, & Caitlin Purdome</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>3:45pm - 4:15pm</td>
+  </tr>
+  <tr>
+    <td rowspan=3>Intersections et transdisciplinarité</br>Modération: Adam Worral</td>
+    <td>4:15pm - 4:45pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/26.Allard/">Selon nos propres termes : vers un mouvement critique intersectionnel « fémiLISte »</a></strong><br>
+        <i>Danielle Allard, Tami Oliphant, and Thane Chambers</i>
+    </td>
+  </tr>
+  <tr>
+    <td>4:45pm - 5:15pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/27.Yanaky/">Relever les défis transdisciplinaires grâce à la technologie : outils de planification de paysages sonores immersifs</a></strong><br>
+        <i>Richard Yanaky & Catherine Guastavino</i>
+    </td>
+  </tr>
+  <tr>
+    <td>5:15pm - 5:45pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/28.Mayhew/">La phylomémétique comme cadre de synthèse bibliographique</a></strong><br>
+        <i>Alexander Mayhew</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=2>5:45pm - 6:00pm</td>
+  </tr>
+  <tr>
+    <td>Panel</td>
+    <td>6:00pm - 7:30pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/29.Faith/">Une histoire de foi inconditionnelle : l’émerveillement professionnel et l’espoir d’un avenir de « mauvaise » bibliothéconomie</a></strong><br>
+        <i>Heather Hill, Janet Allen, Amber Matthews, Danica Pawlick-Potts & Sam A. Vander Kooy</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3 style="font-size:20px"><strong><font>Jour 4 - Vendredi 10 Juin</font></strong></td>
+  </tr>
+  <tr>
+    <th>Séance</th>
+    <th>Heure (EDT)</th>
+    <th>Évènement</th>
+  </tr>
+  <tr>
+    <td>Forum</td>
+    <td>11:00am - 2:00pm</td>
+    <td><strong>Forum annuel de recherche étudiante de l’ACSI</strong><br>
+        <i>Danica Facca, Hugh Samson</i>
+    </td>
+  </tr>
+  <tr>
+    <td>AGM</td>
+    <td>1:00pm - 3:00pm</td>
+    <td><strong><a href="https://www.acsi2022.ca/talk/AGM/">Assemblée générale annuelle de l’ACSI</a></strong><br>
+        <i>Cette réunion est ouverte à toutes et à tous</i>
+    </td>
+  </tr>
+</table>
 
-<br>Nous invitons des communications, panels et présentations éclair aux sujets et méthodologie diverses. Nous encourageons particulièrement les propositions liées à la thématique du congrès (comprendre le passé et bâtir l'avenir) offrant une perspective historique sur un sujet d’actualité, ou présentant une vision pour l’avenir de la bibliothéconomie et des sciences de l’information.
 
-### Types de propositions
-ACSI/CAIS invite des propositions présentant des recherches empiriques, théoriques ou s’appuyant sur des pratiques. Les propositions peuvent être soumises en anglais ou en français. Toutes les propositions sont soumises à une évaluation par les pairs en double aveugle et ne devraient pas contenir d’information permettant d’identifier les auteurs au moment de leur soumission.
-<br><br>
-**Communications** : Présentations orales de 20 minutes de projets achevés ou bien avancés portant sur des sujets publiables dans des revues savantes.  La préférence sera accordée aux propositions qui rendent compte de recherches achevées ou en cours. Des perspectives (théoriques ou appliquées) diverses et innovantes ainsi que des propositions méthodologiques sont les bienvenues. Les propositions doivent être rédigées sous la forme d’un résumé détaillé (environ 1 000 à 1 500 mots, références non comprises). Prière d’utiliser ce <a href="https://docs.google.com/document/d/154HcFZolLz7aCBUQ_TSt0GfHwBqiAoWU/edit?usp=sharing&ouid=109657051901319297345&rtpof=true&sd=true" target="_blank">modèle</a>.
-<br><br>
-**Présentations éclair** : présentations orales de 5 minutes portant sur un seul élément d’une recherche en cours ou en développement. Les propositions de présentations éclair qui couvrent l’ensemble d’un projet de recherche ne seront pas acceptées. L’objectif d’une présentation éclair est de promouvoir les discussions, de recevoir de la rétroaction, ou de trouver des collaborateurs. Les propositions devraient prendre la forme d’un résumé de 250 mots (sans les références). Prière d’utiliser ce <a href="https://docs.google.com/document/d/154HcFZolLz7aCBUQ_TSt0GfHwBqiAoWU/edit?usp=sharing&ouid=109657051901319297345&rtpof=true&sd=true" target="_blank">modèle</a>.
-<br><br>
-**Panels** : Présentations orales de 90 minutes avec 3 panélistes ou plus portant sur des sujets émergents, des tendances, ou des points de vue divergents, et incluant du temps pour les questions et discussions. Les panels sont une occasion de générer des discussions sur des préoccupations communes, dont celles qui sont peu visibles dans la recherche ou encore peu reconnues. Les panels ne devraient pas être simplement constitués d’un ensemble de présentation distincte partageant une thématique donnée; nous encourageons les propositions offrant des opportunités uniques et créatives d’échanger avec les participants dans le cadre du panel. Nous recommandons trois à cinq panélistes en plus d’un modérateur, la liste des panélistes pouvant être modifiée suite à l’acceptation. Les propositions doivent être rédigées sous la forme d'un résumé détaillé (environ 1 000 à 1 500 mots, références non comprises), incluant le sujet à discuter, un aperçu de la structure du panel, et les qualifications et contributions pertinentes de chaque panéliste. Prière d’utiliser ce <a href="https://docs.google.com/document/d/154HcFZolLz7aCBUQ_TSt0GfHwBqiAoWU/edit?usp=sharing&ouid=109657051901319297345&rtpof=true&sd=true" target="_blank">modèle</a>.
-<br><br>
-**Les prix ACSI/CAIS pour étudiants et professionnels** : Les propositions de communications provenant soit d’étudiants des cycles supérieurs, soit de professionnels seront prises en considération pour ces prix. Le prix ACSI/CAIS décerné à un étudiant comporte une récompense en argent. Les deux lauréats auront la possibilité de publier le manuscrit complet dans la Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science. Pour être considérés pour ces prix, les candidats doivent indiquer dans leur proposition s’ils sont étudiants ou professionnels. Les détails sur ces prix, y compris les lauréats des années précédentes, se trouvent sur le site web de l’ACSI/CAIS : [www.cais-acsi.ca/fr/](www.cais-acsi.ca/fr/).
-<br><br>
-L’évaluation des propositions portera sur la théorie ou la méthodologie, la clarté, l’impact ou l’originalité, et la qualité générale. Les propositions seront reçues et évaluées via l’Open Journal System de l’ACSI/CAIS : [https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions). Si vous éprouvez des difficultés à soumettre votre contribution dans le système d’ici la date limite, veuillez la soumettre à [conference@cais-acsi.ca](mailto:conference@cais-acsi.ca).
-<br><br>
-**Forum de la recherche étudiante**: Nous avons le plaisir d’inviter les étudiants à la maîtrise et au doctorat à participer au forum de recherche étudiante de l’ACSI. L’objectif du forum est de donner aux étudiants l’occasion de présenter et de discuter de leur projet de recherche, de recevoir de la rétroaction de la part de chercheurs expérimentés, et d’établir des liens avec d’autres étudiants. Les étudiants à tout stade de leur programme sont invités à participer au Forum.
-<br><br>
-Soyez prêt à faire une présentation informelle de 5 à 10 minutes portant sur un aspect de votre recherche qui sera suivie d’une discussion. Plus de détails vous seront communiqués suite à l’acceptation de votre soumission.
-<br><br>
-Pour participer au Forum, veuillez remplir le [formulaire de soumission](https://docs.google.com/forms/d/e/1FAIpQLScbW8_kNo-9bWQ4VnIV5jT5y601eTuyw0hK1h0Y_s-7Qa5aIQ/viewform?usp=sf_link).
-<br><br>
-**La date limite pour toutes les soumissions est le ~~21 janvier~~ 4 février 2022 à minuit, heure du Pacifique.**
-<br><br>
-Les auteurs seront informés au plus tard le ~~**15 mars 2022**~~ **premier avril 2022**. Les versions finales doivent être soumises au plus tard le **15 mai 2022**, et seront ensuite publiées sur le site Web et les actes du congrès. Les auteurs sont également encouragés à soumettre leurs articles complétés à la à la revue en accès libre (voie diamant, sans frais de publication) de l’ACSI : [Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie](https://ojs.lib.uwo.ca/index.php/cjils).
 <br><br>
 Pour plus d'informations, veuillez contacter les organisateurs du congrès ACSI/CAIS 2022 :
 <br><br>
@@ -66,7 +313,4 @@ sarah.polkinghorne@ualberta.ca<br>
 
 ### Références
 Nilson, K. (2010). Thirty-seven CAIS-ACSI conferences, 1973–2009. <italic>Canadian Journal of Information and Library Science, 34</italic>(2), 131-159. [https://doi.org/10.1353/ils.0.0000](https://doi.org/10.1353/ils.0.0000)
-
-
-
 
