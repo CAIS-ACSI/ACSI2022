@@ -29,7 +29,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>
   <tr>
     <td>MOT DE BIENVENUE ET ANNONCES</td>
-    <td>1:00pm - 1:15pm</td>
+    <td>13:00pm - 13:15</td>
     <td>
       <STRONG>MOT DE BIENVENUE ET ANNONCES</STRONG></br>
         <i>Sarah Polkinghorne</i>
@@ -38,26 +38,26 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   <tr>
     <td>SÉANCE PLÉNIÈRE D’OUVERTURE</br>
       Modération: Grant Campbell</td>
-    <td>1:15pm - 2:45m</td>
+    <td>13:15 - 14:45</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/1.Future/">Retour vers le futur : leçons d’hier et priorités de demain dans la recherche en bibliothéconomie et sciences de l’information</a></strong><br>
         <i>Julia Bullard, Lynne Howarth & Ali Shiri</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:45pm - 3:00pm</td>
+    <td colspan=2>14:45 - 15:00</td>
   </tr>
   <tr>
     <td>PANEL CONJOINT INAUGURAL CAIS-CAPAL</br>
         Modération: à déterminer</td>
-    <td>3:00pm - 4:00pm</td>
+    <td>15:00pm - 16:00</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/2.Capal/">Loin dans l’avenir : perspectives sur la recherche et la pratique</a></strong><br>
         <i>Mary Greenshields, Michelle Brown, à déterminer, à déterminer</i>
     </td>
   </tr>
   <tr>
     <td>Réseautage informel
-    <td>4:00pm - 4:30pm</td>
+    <td>16:00 - 16:30</td>
     <td><STRONG>restez dans la salle Zoom !</td>
     </td>
   </tr>
@@ -71,21 +71,21 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>
   <tr>
   <td rowspan=3>Présentation des prix des meilleurs articles</br>Modération: Rebekah (Becky) Willson</td>
-    <td>11:00am - 11:30am</td>
+    <td>11:00 - 11:30</td>
     <td>Meilleur article (égalité):</br>
       <strong><a href="https://www.acsi2022.ca/talk/3.Samek/">Tracer une catégorisation à facettes de l’IA et de l’éthique</a></strong><br>
         <i>Toni Samek & Ali Shiri</i>
     </td>
   </tr>
   <tr>
-    <td>11:30am - 12:00pm</td>
+    <td>11:30 - 12:00</td>
     <td>Meilleur article (égalité):</br>
       <strong><a href="https://www.acsi2022.ca/talk/4.Rothbauer/">Honorer l’amour des livres et de la lecture en bibliothéconomie et sciences de l’information</a></strong><br>
         <i>Paulette Rothbauer & Marni Harrington</i>
     </td>
   </tr>
   <tr>
-    <td>12:00pm - 12:30pm</td>
+    <td>12:00 - 12:30</td>
     <td>Prix étudiant de l’ACS:</br>
     <strong><a href="https://www.acsi2022.ca/talk/5.Shuva/">« Ils agissent comme si nous allions au paradis » : production d’informations, désinformation et établissement d’immigrants bangladais au Canada</a></strong><br>
         <i>Nafiz Shuva</i>
@@ -94,64 +94,64 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>
   <tr>
     <td rowspan=3>Recherche et découverte</br>Modération: à déterminer</td>
-    <td>12:30pm - 1:00pm</td>
+    <td>12:30 - 13:00</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/6.Shiri/">Évaluation de la réutilisation du contenu numérique : un cadre émergent pour la recherche et le développement futur des bibliothèques numériques</a></strong><br>
         <i>Ali Shiri, Caroline Muglia, Santi Thompson, Joyce Chapman, Elizabeth Joan Kelly, Ayla Stein Kenfield & Liz Woolcot</i>
     </td>
   </tr>  
   <tr>
-    <td>1:00pm - 1:30pm</td>
+    <td>13:00 - 13:30</td>
    <td> <strong><a href="https://www.acsi2022.ca/talk/7.Tucker/">Sentiers non explorés des moteurs de recherche : revisiter les premières idées et explorer les défis futurs pour enrichir le programme d’étude des méthodes de recherche d’information</a></strong><br>
         <i>Virginia Tucker</i>
     </td>
   </tr>
   <tr>
-    <td>1:30pm - 2:00pm</td>
+    <td>13:30 - 14:00</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/8.Haigh/">Vérification des faits à l’ère de la post-vérité</a></strong><br>
         <i>Maria Haigh</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00pm - 2:15pm</td>
+    <td colspan=2>14:00 - 14:15</td>
   </tr>
   <tr>
     <td>PANEL</td>
-    <td>2:15pm - 3:45pm</td>
+    <td>14:15 - 15:45</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/9.Ethnography/">Kaléidoscope ethnographique en bibliothéconomie et sciences de l’information</a></strong><br>
         <i>Jenna Hartel, Bharat Mehra, Brian Griffin, Jenaya Webb, Rebecca Noone, Hugh Samson & Danielle Cooper</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>3:45pm - 4:15pm</td>
+    <td colspan=2>15:45 - 16:15</td>
   </tr>
   <tr>
   <td rowspan=3>Communications savantes</br>Modération:à déterminer</td>
-    <td>4:15pm - 4:45pm</td>
+    <td>16:15 - 16:45</td>
       <td><strong><a href="https://www.acsi2022.ca/talk/10.Ayeni/">Facteurs influençant les pratiques de publication en libre accès des chercheurs canadiens en SSH : implications pour l’avenir de la communication savante</a></strong><br>
         <i>Philips Ayeni & Rebekah Willson</i>
     </td>
   </tr>
   <tr>
-    <td>4:45pm - 5:15pm</td>
+    <td>16:45 - 17:15</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/11.Dillon/">Externaliser nos jugements : le problème avec l’utilisation d’indicateurs de performance pour l’évaluation des professeurs</a></strong><br>
         <i>Andrew Dillon</i>
     </td>
   </tr>
   <tr>
-    <td>5:15pm - 5:45pm</td>
+    <td>17:15pm - 17:45pm</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/12.Butler/">Le passage vers l’édition en libre accès de l’oligopole scientifique : comment les éditeurs à but lucratif bénéficient-ils des frais de traitement des articles dorés et hybrides</a></strong><br>
         <i>Leigh-Ann Butler, Lisa Matthias, Marc-André Simard, Philippe Mongeon & Stefanie Haustein</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>5:45pm - 6:00pm</td>
+    <td colspan=2>17:45pm - 18:00pm</td>
   </tr>
   <tr>
   <td>PANEL</td>
-   <td>6:00pm - 7:30pm</td>
+   <td>18:00pm - 19:30pm</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/13.Social/">, Bibliothéconomie et sciences de l’information, et travail social : des passés croisés, un avenir partagé</a></strong><br>
         <i>Keren Dali, Noah Lenstra, Charles Senteio, Angelica Esposito & Kaitlin Wynia Baluk</i>
     </td>
@@ -167,7 +167,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   <tr>
     <td rowspan=7>PRÉSENTATIONS ÉCLAIR</br>
     Modération: à déterminer</td>
-    <td rowspan=7>11:00am - 12:00pm</td>
+    <td rowspan=7>11:00 - 12:00</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/14.Dold/">L’encyclopédie conceptuelle, revisitée ? Organisation du savoir pour la théorie politique du 21e siècle</a></strong><br>
         <i>Kayla Dold</i>
     </td>
@@ -204,69 +204,69 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>  
   <tr>
   <td rowspan=4>Bibliothèques et archives</br>Modération: à déterminer</td>
-     <td>12:00pm - 12:30pm</td>
+     <td>12:00 - 12:30</td>
        <td><strong><a href="https://www.acsi2022.ca/talk/21.Silva/">Les pratiques d’évaluation archivistique dans deux Archives nationales d’Amérique du Nord et du Sud : le Canada et le Brésil</a></strong><br>
         <i>Maria Juliana Nunes da Silva & Ivana Denise Parrela</i>
     </td>
   </tr>
   <tr>
-    <td>12:30am - 1:00pm</td>
+    <td>12:30 - 13:00</td>
        <td><strong><a href="https://www.acsi2022.ca/talk/22.Dalmer/">« Tant que vous ne m’appelez pas Madame » : les points de vue des usagers plus âgés sur les étiquettes d’âge utilisées dans les programmes en bibliothèque</a></strong><br>
         <i>Nicole Dalmer, Lucia Cedeira Serantes, & Bria Mitrovica</i>
     </td>
   </tr>
   <tr>
-    <td>1:00pm - 1:30pm</td>
+    <td>13:00 - 13:30</td>
      <td><strong><a href="https://www.acsi2022.ca/talk/23.Modrow/">Edwards rêve d’Alexandrie : l’histoire des bibliothèques au service de l’activisme des bibliothèques publiques</a></strong><br>
         <i>Sebastian Modrow & Melissa Smith</i>
     </td>
   </tr>
     <tr>
-    <td>1:30pm - 2:00pm</td>
+    <td>13:30 - 14:00</td>
      <td><strong><a href="https://www.acsi2022.ca/talk/24.Chabot/">Le discours des opposants et des partisans de l’heure du conte drag queen : une étude de cas de la bibliothèque régionale d’Okanagan</a></strong><br>
         <i>Roger Chabot & Davin Helkenberg</i>
     </td>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00am- 2:15pm</td>
+    <td colspan=2>14:00- 14:15</td>
   </tr>
   <tr>
     <td>Panel</td>
-    <td>2:15pm - 3:45pm</td>
+    <td>14:15 - 15:45</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/25.Marginalization/">100 ans de marginalisation : documenter le passé, développer l’avenir</a></strong><br>
         <i>Brian M. Watson, Julia Bullard, Rio Picollo, Tamara Lee, Gerry Goh, & Caitlin Purdome</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>3:45pm - 4:15pm</td>
+    <td colspan=2>15:45 - 16:15</td>
   </tr>
   <tr>
     <td rowspan=3>Intersections et transdisciplinarité</br>Modération: Adam Worral</td>
-    <td>4:15pm - 4:45pm</td>
+    <td>16:15 - 16:45</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/26.Allard/">Selon nos propres termes : vers un mouvement critique intersectionnel « fémiLISte »</a></strong><br>
         <i>Danielle Allard, Tami Oliphant, and Thane Chambers</i>
     </td>
   </tr>
   <tr>
-    <td>4:45pm - 5:15pm</td>
+    <td>16:45 - 17:15</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/27.Yanaky/">Relever les défis transdisciplinaires grâce à la technologie : outils de planification de paysages sonores immersifs</a></strong><br>
         <i>Richard Yanaky & Catherine Guastavino</i>
     </td>
   </tr>
   <tr>
-    <td>5:15pm - 5:45pm</td>
+    <td>17:15 - 17:45</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/28.Mayhew/">La phylomémétique comme cadre de synthèse bibliographique</a></strong><br>
         <i>Alexander Mayhew</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>5:45pm - 6:00pm</td>
+    <td colspan=2>17:45 - 18:00</td>
   </tr>
   <tr>
     <td>Panel</td>
-    <td>6:00pm - 7:30pm</td>
+    <td>18:00 - 19:30</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/29.Faith/">Une histoire de foi inconditionnelle : l’émerveillement professionnel et l’espoir d’un avenir de « mauvaise » bibliothéconomie</a></strong><br>
         <i>Heather Hill, Janet Allen, Amber Matthews, Danica Pawlick-Potts & Sam A. Vander Kooy</i>
     </td>
@@ -281,14 +281,14 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>
   <tr>
     <td>Forum</td>
-    <td>11:00am - 2:00pm</td>
+    <td>11:00 - 14:00</td>
     <td><strong>Forum annuel de recherche étudiante de l’ACSI</strong><br>
         <i>Danica Facca, Hugh Samson</i>
     </td>
   </tr>
   <tr>
-    <td>AGM</td>
-    <td>1:00pm - 3:00pm</td>
+    <td>AGA</td>
+    <td>14:00 - 16:00</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/AGM/">Assemblée générale annuelle de l’ACSI</a></strong><br>
         <i>Cette réunion est ouverte à toutes et à tous</i>
     </td>
