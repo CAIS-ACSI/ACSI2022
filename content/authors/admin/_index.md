@@ -165,14 +165,9 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
     <th>Présentation</th>
   </tr>
   <tr>
-    <td rowspan=7>PRÉSENTATIONS ÉCLAIR</br>
+    <td rowspan=6>PRÉSENTATIONS ÉCLAIR</br>
     Modération: à déterminer</td>
-    <td rowspan=7>11:00 - 12:00</td>
-    <td><strong><a href="https://www.acsi2022.ca/talk/14.Dold/">L’encyclopédie conceptuelle, revisitée ? Organisation du savoir pour la théorie politique du 21e siècle</a></strong><br>
-        <i>Kayla Dold</i>
-    </td>
-  </tr>
-  <tr>
+    <td rowspan=6>11:00 - 12:00</td>
       <td><strong><a href="https://www.acsi2022.ca/talk/15.Currier/">Vers l’équité de l’information entre les bibliothèques universitaires : partager les livres électroniques à la façon des documents d’imprimés</a></strong><br>
         <i>Chad Currier</i>
     </td>
