@@ -5,7 +5,7 @@ event_url:
 
 location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
 
-abstract: "This paper examines the practice of archival appraisal in two major archival institutions, from opposite hemispheres and realities: Canada and Brazil. The main objective is to increase knowledge about such an important function for archival practice in the National Archives of these countries. The work covers the theoretical basis used to conduct the appraisal, the main legislation and the instruments used. Finally, the main goal, regardless of the country, is that the practice of appraisal optimizes financial resources and time, reduces the risk of undue destruction of documents and promotes accountability, transparency, and social representation."
+abstract: "This paper reports on findings from a larger study on the settlement information behaviour of Bangladeshi immigrants to Canada. This study uses a mixed method approach, including semi-structured interviews (n=60) and surveys (n=205) with Bangladeshi immigrants who arrived in Canada between 1971 and 2017. The author discusses the new concept of information crafting by exploring the information immigrants received from immigration consultants in Bangladesh and the Immigration, Refugees and Citizenship Canada (IRCC). The study reports negative consequences of selective information in newcomers’ settlement in Canada, primarily positive information about life in Canada, sometimes with exaggeration and falsifications."
 
 date: "2022-06-09T12:00:00Z"
 date_end: "2022-06-09T12:30:00Z"
