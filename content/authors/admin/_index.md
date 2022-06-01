@@ -127,7 +127,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
     <td colspan=2>15:45 - 16:15</td>
   </tr>
   <tr>
-  <td rowspan=3>Communications savantes</br>Modération:à déterminer</td>
+  <td rowspan=3>Communications savantes</br>Modération:Ratna Dhaliwal</td>
     <td>16:15 - 16:45</td>
       <td><strong><a href="https://www.acsi2022.ca/talk/10.Ayeni/">Facteurs influençant les pratiques de publication en libre accès des chercheurs canadiens en SSH : implications pour l’avenir de la communication savante</a></strong><br>
         <i>Philips Ayeni & Rebekah Willson</i>
@@ -198,7 +198,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
     </td>
   </tr>  
   <tr>
-  <td rowspan=4>Bibliothèques et archives</br>Modération: à déterminer</td>
+  <td rowspan=4>Bibliothèques et archives</br>Modération: Tami Oliphant</td>
      <td>12:00 - 12:30</td>
        <td><strong><a href="https://www.acsi2022.ca/talk/21.Silva/">Les pratiques d’évaluation archivistique dans deux Archives nationales d’Amérique du Nord et du Sud : le Canada et le Brésil</a></strong><br>
         <i>Maria Juliana Nunes da Silva & Ivana Denise Parrela</i>
