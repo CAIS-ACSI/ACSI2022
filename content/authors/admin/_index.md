@@ -93,7 +93,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>
   </tr>
   <tr>
-    <td rowspan=3>Recherche et découverte</br>Modération: à déterminer</td>
+    <td rowspan=3>Recherche et découverte</br>Modération: Eva Hourihan Jansen</td>
     <td>12:30 - 13:00</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/6.Shiri/">Évaluation de la réutilisation du contenu numérique : un cadre émergent pour la recherche et le développement futur des bibliothèques numériques</a></strong><br>
         <i>Ali Shiri, Caroline Muglia, Santi Thompson, Joyce Chapman, Elizabeth Joan Kelly, Ayla Stein Kenfield & Liz Woolcot</i>
