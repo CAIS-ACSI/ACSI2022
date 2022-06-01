@@ -49,7 +49,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>
   <tr>
     <td>PANEL CONJOINT INAUGURAL CAIS-CAPAL</br>
-        Modération: à déterminer</td>
+        Modération: Stacy Allison-Cassin</td>
     <td>15:00pm - 16:00</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/2.Capal/">Loin dans l’avenir : perspectives sur la recherche et la pratique</a></strong><br>
         <i>Mary Greenshields, Michelle Brown, Danielle Allard, Roger Chabot</i>
