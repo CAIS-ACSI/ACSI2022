@@ -140,18 +140,18 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
     </td>
   </tr>
   <tr>
-    <td>17:15pm - 17:45pm</td>
+    <td>17:15 - 17:45</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/12.Butler/">Le passage vers l’édition en libre accès de l’oligopole scientifique : comment les éditeurs à but lucratif bénéficient-ils des frais de traitement des articles dorés et hybrides</a></strong><br>
         <i>Leigh-Ann Butler, Lisa Matthias, Marc-André Simard, Philippe Mongeon & Stefanie Haustein</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>17:45pm - 18:00pm</td>
+    <td colspan=2>17:45 - 18:00</td>
   </tr>
   <tr>
   <td>PANEL</td>
-   <td>18:00pm - 19:30pm</td>
+   <td>18:00 - 19:30</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/13.Social/">, Bibliothéconomie et sciences de l’information, et travail social : des passés croisés, un avenir partagé</a></strong><br>
         <i>Keren Dali, Noah Lenstra, Charles Senteio, Angelica Esposito & Kaitlin Wynia Baluk</i>
     </td>
@@ -198,16 +198,14 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
     </td>
   </tr>  
   <tr>
-  <td rowspan=4>Bibliothèques et archives</br>Modération: Tami Oliphant</td>
-     <td>12:00 - 12:30</td>
-       <td><strong><a href="https://www.acsi2022.ca/talk/21.Silva/">Les pratiques d’évaluation archivistique dans deux Archives nationales d’Amérique du Nord et du Sud : le Canada et le Brésil</a></strong><br>
-        <i>Maria Juliana Nunes da Silva & Ivana Denise Parrela</i>
-    </td>
+    <td>Break</td>
+    <td colspan=2>12:00- 12:30</td>
   </tr>
   <tr>
-    <td>12:30 - 13:00</td>
-       <td><strong><a href="https://www.acsi2022.ca/talk/22.Dalmer/">« Tant que vous ne m’appelez pas Madame » : les points de vue des usagers plus âgés sur les étiquettes d’âge utilisées dans les programmes en bibliothèque</a></strong><br>
-        <i>Nicole Dalmer, Lucia Cedeira Serantes, & Bria Mitrovica</i>
+  <td rowspan=4>Bibliothèques et archives</br>Modération: Tami Oliphant</td>
+     <td>12:30 - 13:00</td>
+       <td><strong><a href="https://www.acsi2022.ca/talk/21.Silva/">Les pratiques d’évaluation archivistique dans deux Archives nationales d’Amérique du Nord et du Sud : le Canada et le Brésil</a></strong><br>
+        <i>Maria Juliana Nunes da Silva & Ivana Denise Parrela</i>
     </td>
   </tr>
   <tr>
