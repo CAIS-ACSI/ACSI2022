@@ -127,7 +127,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
     <td colspan=2>15:45 - 16:15</td>
   </tr>
   <tr>
-  <td rowspan=3>Communications savantes</br>Modération:Ratna Dhaliwal</td>
+  <td rowspan=3>Communications savantes</br>Modération: Ratna Dhaliwal</td>
     <td>16:15 - 16:45</td>
       <td><strong><a href="https://www.acsi2022.ca/talk/10.Ayeni/">Facteurs influençant les pratiques de publication en libre accès des chercheurs canadiens en SSH : implications pour l’avenir de la communication savante</a></strong><br>
         <i>Philips Ayeni & Rebekah Willson</i>
