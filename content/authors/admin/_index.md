@@ -167,7 +167,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   <tr>
     <td rowspan=6>PRÉSENTATIONS ÉCLAIR</br>
     Modération: à déterminer</td>
-    <td rowspan=6>11:00 - 12:00</td>
+    <td rowspan=6>11:00 - 12:15</td>
       <td><strong><a href="https://www.acsi2022.ca/talk/15.Currier/">Vers l’équité de l’information entre les bibliothèques universitaires : partager les livres électroniques à la façon des documents d’imprimés</a></strong><br>
         <i>Chad Currier</i>
     </td>
@@ -199,7 +199,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>  
   <tr>
     <td>Break</td>
-    <td colspan=2>12:00- 12:30</td>
+    <td colspan=2>12:15 - 12:30</td>
   </tr>
   <tr>
   <td rowspan=4>Bibliothèques et archives</br>Modération: Tami Oliphant</td>
