@@ -166,7 +166,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>
   <tr>
     <td rowspan=6>PRÉSENTATIONS ÉCLAIR</br>
-    Modération: à déterminer</td>
+    Modération: Rebekah (Becky) Willson</td>
     <td rowspan=6>11:00 - 12:15</td>
       <td><strong><a href="https://www.acsi2022.ca/talk/15.Currier/">Vers l’équité de l’information entre les bibliothèques universitaires : partager les livres électroniques à la façon des documents d’imprimés</a></strong><br>
         <i>Chad Currier</i>
