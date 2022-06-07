@@ -179,7 +179,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>
   <tr>
     <td><strong><a href="https://www.acsi2022.ca/talk/17.Allen/">Le mythe de la référence à moitié-exacte</a></strong><br>
-        <i>Janet Allen</i>
+        <i>Janet Allen, Alexia Baggetta & Maya Fernandez Contreras </i>
     </td>
   </tr>
   <tr>
