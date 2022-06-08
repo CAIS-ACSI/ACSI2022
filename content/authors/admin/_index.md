@@ -93,7 +93,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>
   </tr>
   <tr>
-    <td rowspan=3>Recherche et découverte</br>Modération: Eva Hourihan Jansen</td>
+    <td rowspan=2>Recherche et découverte</br>Modération: Eva Hourihan Jansen</td>
     <td>12:30 - 13:00</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/6.Shiri/">Évaluation de la réutilisation du contenu numérique : un cadre émergent pour la recherche et le développement futur des bibliothèques numériques</a></strong><br>
         <i>Ali Shiri, Caroline Muglia, Santi Thompson, Joyce Chapman, Elizabeth Joan Kelly, Ayla Stein Kenfield & Liz Woolcot</i>
@@ -101,19 +101,13 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   </tr>  
   <tr>
     <td>13:00 - 13:30</td>
-   <td> <strong><a href="https://www.acsi2022.ca/talk/7.Tucker/">Sentiers non explorés des moteurs de recherche : revisiter les premières idées et explorer les défis futurs pour enrichir le programme d’étude des méthodes de recherche d’information</a></strong><br>
-        <i>Virginia Tucker</i>
-    </td>
-  </tr>
-  <tr>
-    <td>13:30 - 14:00</td>
     <td><strong><a href="https://www.acsi2022.ca/talk/8.Haigh/">Vérification des faits à l’ère de la post-vérité</a></strong><br>
         <i>Maria Haigh</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>14:00 - 14:15</td>
+    <td colspan=2>13:30 - 14:15</td>
   </tr>
   <tr>
     <td>PANEL</td>
