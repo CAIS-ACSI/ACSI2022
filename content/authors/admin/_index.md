@@ -269,7 +269,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
   <tr>
     <td>Forum</td>
     <td>11:00 - 14:00</td>
-    <td><strong>Forum annuel de recherche étudiante de l’ACSI</strong><br>
+    <td><strong><a href="https://www.cais2022.ca/talk/SRF/">Forum annuel de recherche étudiante de l’ACSI</a></strong><br>
         <i>Danica Facca, Hugh Samson</i>
     </td>
   </tr>
