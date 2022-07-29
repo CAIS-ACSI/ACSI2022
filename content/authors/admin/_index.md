@@ -14,9 +14,8 @@ Le premier congrès de l’ACSI/CAIS a eu lieu en 1973. Cette année, 171 partic
 <br><br>
 Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est “100 ans de sciences de l’information.” Nous encourageons la communauté à porter un regard sur les cinquante dernières années, et sur les cinquante prochaines. Nous vous invitons à creuser l’histoire de notre discipline pour en faire ressortir de nouvelles connaissances ainsi qu’à en envisager les possibles avenirs.
 
-<center>Lien Zoom pour l'ensemble des séances: <a href="https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09">https://zoom.us/j/88016818664</a> passcode: 502897</center>
-<center>Toutes les heures sont indiquées en <strong>heure avancée de l’Est (EDT)</strong>.</center>
-<center>Veuillez utiliser votre nom lorsque vous rejoingez la recontre sur Zoom. Si vous éprouvez des difficultés, veuillez <a href="#contact">nous contacter.</a></center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46vbvM7WCkt-YDEP4vxxS_oZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <center>Veuillez également noter que toutes les présentations au programme sont en anglais. Une version PDF du programme est disponible.<a href="acsi2022_program_and_schedule.pdf">ici</a>.</center>
 <table style="width:100%">
   <tr>
@@ -301,4 +300,3 @@ sarah.polkinghorne@ualberta.ca<br>
 ### Références
 Nilson, K. (2010). Thirty-seven CAIS-ACSI conferences, 1973–2009. <italic>Canadian Journal of Information and Library Science, 34</italic>(2), 131-159. [https://doi.org/10.1353/ils.0.0000](https://doi.org/10.1353/ils.0.0000)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46vbvM7WCkt-YDEP4vxxS_oZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
