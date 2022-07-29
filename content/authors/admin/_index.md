@@ -16,6 +16,7 @@ Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est �
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46vbvM7WCkt-YDEP4vxxS_oZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 <center>Veuillez également noter que toutes les présentations au programme sont en anglais. Une version PDF du programme est disponible.<a href="acsi2022_program_and_schedule.pdf">ici</a>.</center>
 <table style="width:100%">
   <tr>
