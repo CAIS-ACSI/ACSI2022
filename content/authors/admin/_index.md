@@ -14,8 +14,8 @@ Le premier congrès de l’ACSI/CAIS a eu lieu en 1973. Cette année, 171 partic
 <br><br>
 Pour souligner le 50e congrès de l’ACSI/CAIS, le thème de cette année est “100 ans de sciences de l’information.” Nous encourageons la communauté à porter un regard sur les cinquante dernières années, et sur les cinquante prochaines. Nous vous invitons à creuser l’histoire de notre discipline pour en faire ressortir de nouvelles connaissances ainsi qu’à en envisager les possibles avenirs.
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46vbvM7WCkt-YDEP4vxxS_oZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <center>Veuillez également noter que toutes les présentations au programme sont en anglais. Une version PDF du programme est disponible.<a href="acsi2022_program_and_schedule.pdf">ici</a>.</center>
 <table style="width:100%">
   <tr>
